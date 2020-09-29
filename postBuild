@@ -4,4 +4,3 @@ jupyter serverextension enable --py nbgitpuller --sys-prefix
 jupyter contrib nbextension install --user
 jupyter nbextension enable equation-numbering/main
 
-julia -e 'using WebIO; WebIO.install_jupyter_nbextension();'
