@@ -1,7 +1,0 @@
-name = "bindertest"
-uuid = "ff44ec6a-2696-4589-aa2e-02c441dec190"
-authors = ["ranyi "]
-version = "0.1.0"
-
-[deps]
-SymPy = "24249f21-da20-56a4-8eb1-6a02cf4ae2e6"
