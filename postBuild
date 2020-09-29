@@ -1,1 +1,2 @@
-jupyter serverextension enable --py nbgitpuller
+jupyter serverextension enable --py nbgitpuller --sys-prefix
+ 
