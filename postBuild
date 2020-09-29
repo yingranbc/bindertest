@@ -1,1 +1,3 @@
-/bin/bash -c "jupyter serverextension enable --py nbgitpuller --sys-prefix"
+/bin/bash -c "conda init bash"
+/bin/bash -c "conda activate base; jupyter serverextension enable --py nbgitpuller --sys-prefix"
+
