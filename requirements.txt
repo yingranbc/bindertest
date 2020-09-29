@@ -1,6 +1,2 @@
 nbgitpuller
-
-# Data analytics
-numpy
-matplotlib
-pandas
+jupyter_contrib_nbextensions
