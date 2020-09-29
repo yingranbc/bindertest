@@ -1,5 +1,2 @@
 jupyter serverextension enable --py nbgitpuller --system
 
-jupyter contrib nbextension install --system
-jupyter nbextension enable equation-numbering/main
-
