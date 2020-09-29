@@ -1,4 +1,4 @@
-conda init
+conda init bash
 conda activate base
 jupyter serverextension enable --py nbgitpuller --sys-prefix
 
