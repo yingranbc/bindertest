@@ -1,7 +1,5 @@
-###!/bin/bash
-conda activate base
-jupyter serverextension enable --py nbgitpuller --sys-prefix
+jupyter serverextension enable --py nbgitpuller --system
 
-jupyter contrib nbextension install --user
+jupyter contrib nbextension install --system
 jupyter nbextension enable equation-numbering/main
 
