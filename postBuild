@@ -1,1 +1,1 @@
-echo 'jupyter serverextension enable --py nbgitpuller --sys-prefix' | bash
+/bin/bash -c "jupyter serverextension enable --py nbgitpuller --sys-prefix"
