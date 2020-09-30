@@ -3,4 +3,5 @@ channels:
   - defaults
   - cogsci
 dependencies:
+  - python=3.5
   - pygame
