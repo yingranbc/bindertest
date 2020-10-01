@@ -1,7 +1,7 @@
 name: base
 channels:
   - defaults
-  - cogsci
+  - conda-forge
 dependencies:
-  - python=3.5
-  - pygame
+  - nbgitpuller
+  - jupyter_contrib_nbextensions
